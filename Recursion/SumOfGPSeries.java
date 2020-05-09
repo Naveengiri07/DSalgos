@@ -19,7 +19,6 @@ public class SumOfGPSeries {
 		return sum;
 	}
 	
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
@@ -31,9 +30,6 @@ public class SumOfGPSeries {
 		int n = s.nextInt();
 		
 		System.out.println(sum(a,r,n));
-		
-		
-
 	}
 
 }
